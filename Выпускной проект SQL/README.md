@@ -8,14 +8,7 @@
     <tr>
         <td>Навыки и инструменты</td>
         <td> 
-          <code> Python </code>
-          <code> Pandas </code>
-          <code> NumPy </code>
-          <code> Matplotlib </code>
-          <code> Предобработка данных </code>
-          <code> Исследовательский анализ данных </code>
-          <code> Описательная статистика </code>
-          <code> Проверка статистических гипотез </code>
+          SQL PostgreSQL
         </td>
     </tr>
     <tr>
