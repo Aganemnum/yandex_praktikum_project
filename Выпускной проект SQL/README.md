@@ -8,7 +8,7 @@
     <tr>
         <td>Навыки и инструменты</td>
         <td> 
-          SQL PostgreSQL
+          SQL, PostgreSQL
         </td>
     </tr>
     <tr>
